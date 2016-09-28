@@ -1,9 +1,4 @@
-# README #
-
-
-### What is this repository for? ###
-
-### MetaChem ###
+### Meta Chem Preview ###
 
 # Version:
 Beta v1.0
