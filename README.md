@@ -7,7 +7,7 @@ Beta v1.0
 The MetaChem is built on the Meta Preview by Meta Company (https://www.metavision.com/) for 3D visualization of molecular structures .
 
 
-[![DEMO](http://img.youtube.com/vi/QasWFeNfq3k&feature=youtu.be/1.jpg)](http://www.youtube.com/watch?v=QasWFeNfq3k&feature=youtu.be)
+[![DEMO](https://cloud.githubusercontent.com/assets/13583117/18903279/784be8c4-8558-11e6-870a-09107cfef585.png)](http://www.youtube.com/watch?v=QasWFeNfq3k&feature=youtu.be)
 
 
 
