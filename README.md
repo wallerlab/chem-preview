@@ -1,4 +1,4 @@
-### Meta Chem Preview ###
+# Meta Chem Preview ###
 
 # Version:
 Beta v1.0
