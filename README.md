@@ -5,10 +5,10 @@
 
 ### MetaChem ###
 
-Version:
+# Version:
 Beta v1.0
 
-Description:
+# Description:
 The MetaChem is built on the Meta Preview by Meta Company (https://www.metavision.com/) for 3D visualization of molecular structures .
 
 ### How do I get set up? ###
