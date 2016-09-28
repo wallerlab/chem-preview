@@ -1,15 +1,15 @@
-# README #
+# Meta Chem Preview ###
 
-
-### What is this repository for? ###
-
-### MetaChem ###
-
-Version:
+# Version:
 Beta v1.0
 
-Description:
+# Description:
 The MetaChem is built on the Meta Preview by Meta Company (https://www.metavision.com/) for 3D visualization of molecular structures .
+
+# Demo
+[![DEMO](https://cloud.githubusercontent.com/assets/13583117/18903279/784be8c4-8558-11e6-870a-09107cfef585.png)](http://www.youtube.com/watch?v=QasWFeNfq3k&feature=youtu.be)
+
+
 
 ### How do I get set up? ###
 
@@ -38,5 +38,5 @@ With MetaChem.
 
 ### Who do I talk to? ###
 
-* Repo owner or admin (m_zhen01@uni-muenster.de)
+* Repo owner (m_zhen01@uni-muenster.de) or admin (wallerlab@protonmail.com)
 * Other community or team contact (https://www.metavision.com/)
