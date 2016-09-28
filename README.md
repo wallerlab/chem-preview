@@ -33,5 +33,5 @@ With MetaChem.
 
 ### Who do I talk to? ###
 
-* Repo owner or admin (m_zhen01@uni-muenster.de)
+* Repo owner (m_zhen01@uni-muenster.de) or admin (wallerlab@protonmail.com)
 * Other community or team contact (https://www.metavision.com/)
