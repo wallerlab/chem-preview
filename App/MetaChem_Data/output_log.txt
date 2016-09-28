@@ -1,0 +1,70 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) Iris(TM) Graphics 6100 (ID=0x162b)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\Meta.dll (this message is harmless)
+Loading C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\Meta.dll into Unity Child Domain
+Platform assembly: C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\MetaPackages.dll (this message is harmless)
+Loading C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\MetaPackages.dll into Unity Child Domain
+Platform assembly: C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\Vectrosity.dll (this message is harmless)
+Loading C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\Vectrosity.dll into Unity Child Domain
+Platform assembly: C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\AssimpNet.dll (this message is harmless)
+Loading C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\AssimpNet.dll into Unity Child Domain
+- Completed reload, in  0.190 seconds
+Platform assembly: C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\min zheng\Documents\metabitbucket\metachempreview\App\MetaChem_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1600 60Hz; virtual: 2560x1600 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'DistancePanel') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'AnglePanel') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'DihedralPanel') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 3.131456 ms
+The Assimp plugin is missing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No supported extensions file was found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+No supported extensions file was found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 948 -> priority: 1 
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:SetActive (bool)
+  at Meta.MetaMouse.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
