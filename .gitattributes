@@ -1,3 +1,0 @@
-*.rb linguist-language=C#
-App/player_win_x86.pdb filter=lfs diff=lfs merge=lfs -text
-App/MetaChem_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
