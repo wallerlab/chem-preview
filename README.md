@@ -18,6 +18,7 @@ The ChemPreview is built on the Meta Preview by Meta Company (https://www.metavi
               unzip app.xip, then double click ChemPreview.exe app.
 
 2. Run ChemPreview in Unity:
+
               unzip source.zip, then import ChemPreview.unitypackage    
 
 3. Operate multiple atoms:
