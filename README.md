@@ -13,17 +13,13 @@ The ChemPreview is built on the Meta Preview by Meta Company (https://www.metavi
 
 ### How do I get set up? ###
 
-<<<<<<< HEAD
+
 you can get executable app and unity source package from https://github.com/wallerlab/chem-preview/releases
 
 1. Launch ChemPreview as an App: 
 
               unzip app.zip, then double click ChemPreview.exe app.
-=======
-1. Launch ChemPreview as an App: 
 
-              unzip app.xip, then double click ChemPreview.exe app.
->>>>>>> 57663274bcadafb53a53260ec2018fa6c71f3a7c
 
 2. Run ChemPreview in Unity:
 
